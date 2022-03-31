@@ -11,6 +11,13 @@ for (int i = 0; i < mesiDellAnno.Length; i++)
 
 }
 
+//Chiedo all'utente di inserire da console il suo mese dell'anno preferito
+Console.WriteLine("Inserisci il tuo mese dell'anno preferito!");
+Console.ReadLine();
+
+//Stampo saluto finale
+Console.WriteLine("Grazie e arrivederci!");
+
            
 
        
